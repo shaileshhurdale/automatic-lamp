@@ -8,8 +8,10 @@ import math
 
 #secondFun();
 
+print("some text on local repo");
+
 def helloWorld():
-    print("printting hello world inside function");
+    print("printting hello world inside function!");
     return;
     
 def printData(str):
@@ -23,6 +25,8 @@ printData("shailesh");
 myList=[10,20,30];
 
 print("list before function call: "+str(myList));
+
+print("adding some changes to at remote repo");
 
 
 def modifyList(list):
