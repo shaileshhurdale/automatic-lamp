@@ -8,6 +8,8 @@ import math
 
 #secondFun();
 
+print("some text on local repo");
+
 def helloWorld():
     print("printting hello world inside function!!");
     return;
