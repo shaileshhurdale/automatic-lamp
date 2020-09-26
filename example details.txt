@@ -1,2 +1,2 @@
-initial python practice
+
 see the topic wise examples
