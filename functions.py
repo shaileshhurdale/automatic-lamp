@@ -8,7 +8,7 @@ import math
 
 #secondFun();
 
-print("some text on local repo");
+print("master has those changes already");
 
 def helloWorld():
     print("printting hello world inside function!");
