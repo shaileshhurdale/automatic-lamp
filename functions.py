@@ -9,7 +9,7 @@ import math
 #secondFun();
 
 def helloWorld():
-    print("printting hello world inside function!!");
+    print("printting hello world inside function");
     return;
     
 def printData(str):
