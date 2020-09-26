@@ -8,7 +8,7 @@ import math
 
 #secondFun();
 
-print("master has those changes already!!");
+print("new change");
 
 def helloWorld():
     print("printting hello world inside function!");
